@@ -1,1 +1,1 @@
-# CodeAlpha-project-name
+# CodeAlpha- Basic Calculator in c 
